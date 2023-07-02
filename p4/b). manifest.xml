@@ -1,0 +1,2 @@
+<!--//Adding Read External storage Permission-->
+<uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
