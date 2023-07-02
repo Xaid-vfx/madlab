@@ -1,0 +1,3 @@
+ Develop an app that include broadcast Receiver to receive the miss calls from the Known number and display it to the user using notification services. This same app should also fetch phone number from the inbuilt contacts using the concept of content provider.
+a. How to use broadcast receiver and notifications.
+b. How to use content providers.
